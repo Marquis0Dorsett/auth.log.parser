@@ -1,0 +1,10 @@
+Sep 27 10:15:01 server sshd[1234]: FAILED login for user admin from 192.168.1.10
+Sep 27 10:17:45 server sshd[1235]: AUTH ERROR for user guest from 192.168.1.11
+Sep 27 10:20:00 server sshd[1236]: login failed user=admin ip=192.168.1.12
+Sep 27 10:22:30 server sshd[1237]: SUCCESS login for user root from 192.168.1.13
+Sep 27 10:25:33 server sshd[1238]: FAILED login for user admin from 192.168.1.10
+Sep 27 10:29:10 server sshd[1239]: AUTH ERROR for user guest from 192.168.1.11
+Sep 27 10:32:55 server sshd[1240]: FAILED login for user test from 192.168.1.14
+Sep 27 10:35:20 server sshd[1241]: login attempt user=admin ip=192.168.1.12
+Sep 27 10:38:05 server sshd[1242]: AUTH ERROR for user guest from 192.168.1.11
+Sep 27 10:40:50 server sshd[1243]: FAILED login for user admin from 192.168.1.10
